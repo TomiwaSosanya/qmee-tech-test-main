@@ -1,0 +1,13 @@
+In order to use my tool you need to follow the following steps :
+
+1.lanuch the website using a terminal by using the command npm start in the "qmee-tech-test-main" directory
+
+2.Go to the url http://localhost:3001/survey-completed-event to "complete" a survey and gather data,	
+in order to get an accurate data set refresh this page a number of times to simulate users completing a survey
+
+3. once you have created your dataset go to this url http://localhost:3001/get-results to get the results 
+sent to your terminal.
+
+*ignore the date print but the average time attached is accurate
+
+** if you scroll up you will see all of the groups as well as all peice of data that were "deleted"

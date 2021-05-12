@@ -1,0 +1,24 @@
+## Bonus task
+What other information can you collect that is helpful to the user and allow them to make a more informed decision when choosing a survey.
+
+1.Categories
+When browsing a site, it could be handy to label what surveys are going to be about. This way people who have a lot of opinions about cars
+can easily find them and possible be able to search for them rather than having to click on a survey invest some time into it only to realise
+that they are not interested.
+
+2.Demographic 
+Before a user clicks onto a survey it might be useful to say what type of person you would like to fill this out. This would be good for both
+users and business as they would be getting information from the person they would like as well as users are more likely to have opinions
+on things that relate to them. 
+Types of demographic could be: Age, Gender, Location, Ethnicity, Marital status and so on...
+
+3.Completion rate
+This would be more in relation to longer surveys, if there is a very low completion rate to a survey people who might have the time 
+might think twice before completing after seeing that most people did not finish it. This could be down to complicated questions,
+spelling mistakes, or inappropriate questions.
+On the other hand, this figure could be skewed by people who had an emergency and could not finish as expected.
+
+4.User Rating
+If a large sum of people who have completed a survey also decide to good feedback on a survey, this is a good side to others that this 
+survey will satisfy them. Also, it would discourage people to take surveys that have a bad rating, thus incentivising survey makers to keep
+a high standard.
